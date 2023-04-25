@@ -4,7 +4,7 @@
 This is a simple Todo List app built with Django, which allows users to create, read, update and delete their todo items. The app also includes user authentication using Django's built-in authentication system.
 
 <br>
-<img src="./.images/todoapp.png" width="700" height="500" alt="Todo App image"/>
+<img src="./todoapp.png" width="700" height="500" alt="Todo App image"/>
 
 
 
